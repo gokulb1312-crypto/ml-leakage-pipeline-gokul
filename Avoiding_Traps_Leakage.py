@@ -6,7 +6,6 @@ from sklearn.metrics import accuracy_score
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import cross_val_score
 from sklearn.tree import DecisionTreeClassifier
-import pandas as pd
 
 #Task 1 — Reproduce and Identify Leakage
 
